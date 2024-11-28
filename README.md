@@ -3,5 +3,6 @@
 Tariq Mojahdi - 2eme annee - Groupe B
 
 
-Une repos pour les method agile
+A repository for study purposes
     - *EDUCATION*
+        - **Web Dev**
