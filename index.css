@@ -9,27 +9,10 @@ font-size: 50px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-h2 {
-    color: teal;
-    font-size: 30px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
-
-p {
-font-family: verdana;
-font-size: 20px;
-}
-
-.nakename {
-    color: red;
-    text-decoration-line: line-through;
-    text-decoration-color: black;
-}
-
 span {
     border: 3px dotted black;
     border-radius: 10px;
     margin: 2rem;
-  padding: 1rem;
+    padding: 1rem;
 }
 
